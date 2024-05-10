@@ -1,13 +1,13 @@
 import React from 'react';
-import './Card.css';
+import './Imagen.css';
 
-function Card() {
+function Imagen() {
     return (
-        <div className="Comp1">
-            <img className="Imagen1" src="./assts/Mask Group.png" alt="Logo de navegación" />
-            <img className="Imagen2" src="./assts/Group 4.png" alt="Logo de navegación" />
+        <div class="Comp1">
+            <img class="Imagen1" src="./assts/Mask Group.png" alt="Logo de navegación" />
+            <img class="Imagen2" src="./assts/Group 4.png" alt="Logo de navegación" />
         </div>
-    );
+    )
 }
 
-export default Card;
+export default Imagen

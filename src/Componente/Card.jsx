@@ -5,7 +5,7 @@ import Detalles from './Detalles';
 
 function Card() {
     return (
-        <div>
+        <div class="Tarjetaa">
             <Imagen/>
             <Detalles/>
         </div>

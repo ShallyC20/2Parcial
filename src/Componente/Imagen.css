@@ -1,0 +1,15 @@
+.Imagen1 {
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: -20px;
+
+}
+.Imagen2{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: -20px;
+}
