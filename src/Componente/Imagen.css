@@ -1,15 +1,13 @@
-.Imagen1 {
-    width: 250px;
-    height: 300px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-bottom: -20px;
 
+.Imagen1 {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
-.Imagen2{
-    width: 250px;
-    height: 300px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-bottom: -20px;
+.Imagen2 {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
